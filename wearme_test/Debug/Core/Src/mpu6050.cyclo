@@ -1,0 +1,6 @@
+../Core/Src/mpu6050.c:26:6:MPU6050_Init	3
+../Core/Src/mpu6050.c:56:6:MPU6050_Read	1
+../Core/Src/mpu6050.c:81:6:MPU6050_FR_Init	2
+../Core/Src/mpu6050.c:102:6:recalcularFR	2
+../Core/Src/mpu6050.c:118:6:MPU6050_FR_SetBTCallback	1
+../Core/Src/mpu6050.c:127:6:MPU6050_FR_Update	19
